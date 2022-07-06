@@ -1,5 +1,5 @@
 Bingo!
 Bongo!
 Oingo boingo!
-
+Adding more text
 This is a file with some text.
